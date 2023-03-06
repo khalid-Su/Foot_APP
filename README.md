@@ -7,13 +7,13 @@ class Day3 extends Flutter100DaysOfCode {
       "title": "Flutter Food Delivery Application Design",
       "description": "Let's see how we can design a Food Delivery app UI and add some animation.",
       "day": 3,
-      "videoLink": "https://youtu.be/lff21mmYhvQ"
+    
     }
   }
 }
 ```
 
-[Watch it on Youtube](https://youtu.be/lff21mmYhvQ)
+
 <br>
 
 
