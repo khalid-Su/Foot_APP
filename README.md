@@ -16,8 +16,7 @@ class Day3 extends Flutter100DaysOfCode {
 [Watch it on Youtube](https://youtu.be/lff21mmYhvQ)
 <br>
 
-## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
+
 <br>
 
 ## Development Setup
